@@ -5,7 +5,7 @@ Apologies for the late submission.
 Everything should be self-contained.
 
 ```
-$ git pull
+$ git clone https://github.com/jarhed/jbtask.git 
 $ npm install
 $ composer install
 $ php artisan serve
