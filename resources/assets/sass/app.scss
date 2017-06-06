@@ -1,0 +1,35 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+// Custom
+
+body {
+	//background-image: url(img/stars.jpg);
+	background-size: cover;
+	background-color: #AAA;
+	font-family: Montserrat, sans-serif;
+	color: #FFF;
+}
+
+.header {
+	margin-top: 2em;
+}
+
+.row--topmargin-11 {
+	margin-top: 11px;
+}
+
+.row--topmargin-22 {
+	margin-top: 22px;
+}
+
+.thumbnail {
+	min-height: 430px;
+}

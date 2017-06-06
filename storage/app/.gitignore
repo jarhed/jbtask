@@ -1,0 +1,5 @@
+*
+!public/
+!.gitignore
+!database.sqlite
+!company-data.json
